@@ -137,3 +137,6 @@ const config = {
 };
 
 module.exports = config;
+module.exports = {
+  title: 'Creative Workshops',
+};
